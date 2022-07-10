@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File App</string>
+    <string name="file_name">FIle Name</string>
+    <string name="create_folder">Create a file</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="save">Save a file</string>
+    <string name="open">Open a file</string>
+</resources>
